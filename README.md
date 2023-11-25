@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @DuduCreator
+- Im studying in cs50
 
 
 
