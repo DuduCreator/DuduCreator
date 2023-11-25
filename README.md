@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DuduCreator
-- 🌱 I’m currently learning python
+
 
 
 <!---
