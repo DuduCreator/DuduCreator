@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @DuduCreator
-- python
+- 🚀 Working on something big
+- Python
 
 
 
