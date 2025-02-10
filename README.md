@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DuduCreator
-- 🚀 Working on something big
+- 🚀 Working on something
 - Python
 
 
